@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "targets": [
+      "cf-Description",
+      "cf-Skills"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
