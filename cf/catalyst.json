@@ -2,7 +2,8 @@
   "functions": {
     "targets": [
       "cf-Description",
-      "cf-Skills"
+      "cf-Skills",
+      "cf-projects"
     ],
     "ignore": [],
     "source": "functions"
